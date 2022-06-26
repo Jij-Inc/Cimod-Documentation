@@ -1,4 +1,4 @@
-name: OpenJij Top Page
+name: Deploy cimod Page
 
 on:
   push:
@@ -39,7 +39,7 @@ jobs:
           keep_files: true
           allow_empty_commit: true
           publish_dir: ./www
-          destination_dir: ./www
+          destination_dir: ./
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: ${{ github.event.head_commit.message }}
