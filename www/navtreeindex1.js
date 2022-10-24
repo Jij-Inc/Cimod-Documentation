@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a99cbbed65d359540ce67665d6d680744":[6,0,0,4,6],
+"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a9e3004a31135bd77bd17e3b10734a1bf":[6,0,0,4,43],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a9e6be8ab03eb4edb3b9bce086dbbe83b":[6,0,0,4,53],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aa3b8710221d08380ed2c7d4807a5f069":[6,0,0,4,16],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aa648a32482fa07d5e6c4ee8bf9fa85b7":[6,0,0,4,44],
@@ -145,8 +147,8 @@ var NAVTREEINDEX1 =
 "namespacemembers_type.html":[5,1,3],
 "namespacemembers_vars.html":[5,1,2],
 "namespaces.html":[5,0],
-"namespacestd.html":[5,0,1],
 "namespacestd.html":[6,0,1],
+"namespacestd.html":[5,0,1],
 "pages.html":[],
 "response_8py.html":[7,0,17],
 "response_8py.html#a99f51d949c258bad4249ae740e4a4665":[7,0,17,0],

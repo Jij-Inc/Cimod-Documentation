@@ -111,6 +111,10 @@ Functions</h2></td></tr>
 <tr class="separator:ae4f006c5589f081b6fa0003db81c4693"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6f9adbb3efa460502585570ef9ea3be8"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8">bqm_from_numpy_matrix</a> (mat, list variables=None, offset=0.0, vartype=&quot;BINARY&quot;, **kwargs)</td></tr>
 <tr class="separator:a6f9adbb3efa460502585570ef9ea3be8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b3c210a360942aa095ac04c41ad7eb5"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1b3c210a360942aa095ac04c41ad7eb5">bqm_from_qubo</a> (Q, offset=0.0, **kwargs)</td></tr>
+<tr class="separator:a1b3c210a360942aa095ac04c41ad7eb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8bb27ebbd2d2bdb2e4fdda1cf18f0e65"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65">bqm_from_ising</a> (linear, quadratic, offset=0.0, **kwargs)</td></tr>
+<tr class="separator:a8bb27ebbd2d2bdb2e4fdda1cf18f0e65"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
@@ -176,10 +180,68 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_ae4f006c5589f081b6fa0003db81c4693_icgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_ae4f006c5589f081b6fa0003db81c4693_icgraph" alt=""/></div>
 <map name="namespacecimod_1_1model_1_1binary__quadratic__model_ae4f006c5589f081b6fa0003db81c4693_icgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_ae4f006c5589f081b6fa0003db81c4693_icgraph">
-<area shape="rect" title=" " alt="" coords="677,5,924,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="451,5,629,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="5,5,176,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="224,34,403,105"/>
+<area shape="rect" title=" " alt="" coords="677,74,924,130"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="451,74,629,130"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65" title=" " alt="" coords="5,86,176,142"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="228,34,399,90"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1b3c210a360942aa095ac04c41ad7eb5" title=" " alt="" coords="228,114,399,170"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="224,195,403,266"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a8bb27ebbd2d2bdb2e4fdda1cf18f0e65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65">&#9670;&nbsp;</a></span>bqm_from_ising()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def cimod.model.binary_quadratic_model.bqm_from_ising </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>linear</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>quadratic</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>offset</em> = <code>0.0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">**&#160;</td>
+          <td class="paramname"><em>kwargs</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel()</a>, and <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel_from_JSON()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_a8bb27ebbd2d2bdb2e4fdda1cf18f0e65_cgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_a8bb27ebbd2d2bdb2e4fdda1cf18f0e65_cgraph" alt=""/></div>
+<map name="namespacecimod_1_1model_1_1binary__quadratic__model_a8bb27ebbd2d2bdb2e4fdda1cf18f0e65_cgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_a8bb27ebbd2d2bdb2e4fdda1cf18f0e65_cgraph">
+<area shape="rect" title=" " alt="" coords="5,45,176,101"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="451,45,629,101"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="224,74,403,145"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="677,5,924,61"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#aeebbc4ea5cd415580ded90f10b0942a3" title=" " alt="" coords="719,85,882,141"/>
+<area shape="rect" href="namespacecimod_1_1vartype.html#a61f11833b9cda0bec396c28f88395562" title=" " alt="" coords="699,165,902,192"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a0fa2e88d710f351ba808a59f0a3bb894" title=" " alt="" coords="972,5,1160,61"/>
 </map>
 </div>
 
@@ -229,19 +291,67 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">References <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel()</a>, and <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel_from_JSON()</a>.</p>
+<p class="reference">References <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_a6f9adbb3efa460502585570ef9ea3be8_cgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_a6f9adbb3efa460502585570ef9ea3be8_cgraph" alt=""/></div>
 <map name="namespacecimod_1_1model_1_1binary__quadratic__model_a6f9adbb3efa460502585570ef9ea3be8_cgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_a6f9adbb3efa460502585570ef9ea3be8_cgraph">
 <area shape="rect" title=" " alt="" coords="5,45,176,101"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="451,45,629,101"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="224,74,403,145"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="677,5,924,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#aeebbc4ea5cd415580ded90f10b0942a3" title=" " alt="" coords="719,85,882,141"/>
-<area shape="rect" href="namespacecimod_1_1vartype.html#a61f11833b9cda0bec396c28f88395562" title=" " alt="" coords="699,165,902,192"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a0fa2e88d710f351ba808a59f0a3bb894" title=" " alt="" coords="972,5,1160,61"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="224,45,403,101"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="451,5,697,61"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#aeebbc4ea5cd415580ded90f10b0942a3" title=" " alt="" coords="493,85,655,141"/>
+<area shape="rect" href="namespacecimod_1_1vartype.html#a61f11833b9cda0bec396c28f88395562" title=" " alt="" coords="473,165,675,192"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a0fa2e88d710f351ba808a59f0a3bb894" title=" " alt="" coords="745,5,933,61"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a1b3c210a360942aa095ac04c41ad7eb5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b3c210a360942aa095ac04c41ad7eb5">&#9670;&nbsp;</a></span>bqm_from_qubo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def cimod.model.binary_quadratic_model.bqm_from_qubo </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>Q</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>offset</em> = <code>0.0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">**&#160;</td>
+          <td class="paramname"><em>kwargs</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_a1b3c210a360942aa095ac04c41ad7eb5_cgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_a1b3c210a360942aa095ac04c41ad7eb5_cgraph" alt=""/></div>
+<map name="namespacecimod_1_1model_1_1binary__quadratic__model_a1b3c210a360942aa095ac04c41ad7eb5_cgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_a1b3c210a360942aa095ac04c41ad7eb5_cgraph">
+<area shape="rect" title=" " alt="" coords="5,45,176,101"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="224,45,403,101"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="451,5,697,61"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#aeebbc4ea5cd415580ded90f10b0942a3" title=" " alt="" coords="493,85,655,141"/>
+<area shape="rect" href="namespacecimod_1_1vartype.html#a61f11833b9cda0bec396c28f88395562" title=" " alt="" coords="473,165,675,192"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a0fa2e88d710f351ba808a59f0a3bb894" title=" " alt="" coords="745,5,933,61"/>
 </map>
 </div>
 
@@ -279,11 +389,13 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_a0fa2e88d710f351ba808a59f0a3bb894_icgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_a0fa2e88d710f351ba808a59f0a3bb894_icgraph" alt=""/></div>
 <map name="namespacecimod_1_1model_1_1binary__quadratic__model_a0fa2e88d710f351ba808a59f0a3bb894_icgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_a0fa2e88d710f351ba808a59f0a3bb894_icgraph">
-<area shape="rect" title=" " alt="" coords="972,5,1160,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="677,5,924,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="451,5,629,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="5,5,176,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="224,34,403,105"/>
+<area shape="rect" title=" " alt="" coords="972,74,1160,130"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="677,74,924,130"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="451,74,629,130"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65" title=" " alt="" coords="5,86,176,142"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="228,34,399,90"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1b3c210a360942aa095ac04c41ad7eb5" title=" " alt="" coords="228,114,399,170"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="224,195,403,266"/>
 </map>
 </div>
 
@@ -327,11 +439,13 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_aeebbc4ea5cd415580ded90f10b0942a3_icgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_aeebbc4ea5cd415580ded90f10b0942a3_icgraph" alt=""/></div>
 <map name="namespacecimod_1_1model_1_1binary__quadratic__model_aeebbc4ea5cd415580ded90f10b0942a3_icgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_aeebbc4ea5cd415580ded90f10b0942a3_icgraph">
-<area shape="rect" title=" " alt="" coords="745,39,908,95"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="519,39,697,95"/>
+<area shape="rect" title=" " alt="" coords="745,104,908,160"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95" title=" " alt="" coords="519,104,697,160"/>
 <area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="224,5,471,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="5,108,176,164"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="258,137,437,207"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65" title=" " alt="" coords="5,188,176,244"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="262,136,433,192"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1b3c210a360942aa095ac04c41ad7eb5" title=" " alt="" coords="262,216,433,272"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="258,297,437,367"/>
 </map>
 </div>
 
@@ -379,7 +493,7 @@ Returns:
 </pre> 
 <p class="reference">References <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693">cimod.model.binary_quadratic_model.BinaryQuadraticModel()</a>, <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#aeebbc4ea5cd415580ded90f10b0942a3">cimod.model.binary_quadratic_model.get_cxxcimod_class()</a>, and <a class="el" href="namespacecimod_1_1vartype.html#a61f11833b9cda0bec396c28f88395562">cimod.vartype.to_cxxcimod()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693">cimod.model.binary_quadratic_model.BinaryQuadraticModel()</a>, <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8">cimod.model.binary_quadratic_model.bqm_from_numpy_matrix()</a>, and <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel_from_JSON()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693">cimod.model.binary_quadratic_model.BinaryQuadraticModel()</a>, <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65">cimod.model.binary_quadratic_model.bqm_from_ising()</a>, <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8">cimod.model.binary_quadratic_model.bqm_from_numpy_matrix()</a>, <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1b3c210a360942aa095ac04c41ad7eb5">cimod.model.binary_quadratic_model.bqm_from_qubo()</a>, and <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel_from_JSON()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -397,10 +511,12 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_a1378cb5b0d663eb4d9272f9851b1df95_icgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_a1378cb5b0d663eb4d9272f9851b1df95_icgraph" alt=""/></div>
 <map name="namespacecimod_1_1model_1_1binary__quadratic__model_a1378cb5b0d663eb4d9272f9851b1df95_icgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_a1378cb5b0d663eb4d9272f9851b1df95_icgraph">
-<area shape="rect" title=" " alt="" coords="519,39,697,95"/>
+<area shape="rect" title=" " alt="" coords="519,104,697,160"/>
 <area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ae4f006c5589f081b6fa0003db81c4693" title=" " alt="" coords="224,5,471,61"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="5,108,176,164"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="258,137,437,207"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65" title=" " alt="" coords="5,188,176,244"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="262,136,433,192"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1b3c210a360942aa095ac04c41ad7eb5" title=" " alt="" coords="262,216,433,272"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#ab0fd2481705e562daf9a34d4b31f74f1" title=" " alt="" coords="258,297,437,367"/>
 </map>
 </div>
 
@@ -424,7 +540,7 @@ Here is the caller graph for this function:</div>
 
 <p class="reference">References <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a1378cb5b0d663eb4d9272f9851b1df95">cimod.model.binary_quadratic_model.make_BinaryQuadraticModel()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8">cimod.model.binary_quadratic_model.bqm_from_numpy_matrix()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65">cimod.model.binary_quadratic_model.bqm_from_ising()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -444,7 +560,7 @@ Here is the caller graph for this function:</div>
 <div class="center"><img src="namespacecimod_1_1model_1_1binary__quadratic__model_ab0fd2481705e562daf9a34d4b31f74f1_icgraph.png" border="0" usemap="#namespacecimod_1_1model_1_1binary__quadratic__model_ab0fd2481705e562daf9a34d4b31f74f1_icgraph" alt=""/></div>
 <map name="namespacecimod_1_1model_1_1binary__quadratic__model_ab0fd2481705e562daf9a34d4b31f74f1_icgraph" id="namespacecimod_1_1model_1_1binary__quadratic__model_ab0fd2481705e562daf9a34d4b31f74f1_icgraph">
 <area shape="rect" title=" " alt="" coords="224,5,403,76"/>
-<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a6f9adbb3efa460502585570ef9ea3be8" title=" " alt="" coords="5,13,176,69"/>
+<area shape="rect" href="namespacecimod_1_1model_1_1binary__quadratic__model.html#a8bb27ebbd2d2bdb2e4fdda1cf18f0e65" title=" " alt="" coords="5,13,176,69"/>
 </map>
 </div>
 
@@ -471,7 +587,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacecimod.html">cimod</a></li><li class="navelem"><a class="el" href="namespacecimod_1_1model.html">model</a></li><li class="navelem"><a class="el" href="namespacecimod_1_1model_1_1binary__quadratic__model.html">binary_quadratic_model</a></li>
-    <li class="footer">Generated on Sun Oct 23 2022 10:45:41 for cimod by
+    <li class="footer">Generated on Mon Oct 24 2022 22:19:59 for cimod by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>
