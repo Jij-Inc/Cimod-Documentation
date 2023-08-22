@@ -68,8 +68,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"____init_____8py.html",
-"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a99cbbed65d359540ce67665d6d680744"
+"",
+"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a8cc80abfd548c12ec694cde3eea3140c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

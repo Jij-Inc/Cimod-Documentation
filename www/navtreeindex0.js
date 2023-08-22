@@ -1,5 +1,6 @@
 var NAVTREEINDEX0 =
 {
+"":[5,0,1],
 "____init_____8py.html":[7,0,0],
 "____init_____8py.html#a4d98c80db5a7ad5edb7604f2052366c1":[7,0,0,1],
 "____init_____8py.html#a76205146d4344a2bcd5bd4d1a2b9f552":[7,0,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a831e7b01aa4d69da1d72eb43da73ff52":[6,0,0,6,19],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a84d231b2c0c34abdcdc9600dcd09a4ae":[6,0,0,6,18],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a893b8cdf6e770a1724af97e0576cf029":[6,0,0,6,0],
-"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a895f61d20d23d43d4325154f3587bc7e":[6,0,0,6,2],
-"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a8cc80abfd548c12ec694cde3eea3140c":[6,0,0,6,10]
+"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a895f61d20d23d43d4325154f3587bc7e":[6,0,0,6,2]
 };
