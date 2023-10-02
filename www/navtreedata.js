@@ -69,7 +69,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "",
-"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a8cc80abfd548c12ec694cde3eea3140c"
+"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a895f61d20d23d43d4325154f3587bc7e"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

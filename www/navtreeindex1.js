@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a895f61d20d23d43d4325154f3587bc7e":[6,0,0,6,2],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a8cc80abfd548c12ec694cde3eea3140c":[6,0,0,6,10],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a99cbbed65d359540ce67665d6d680744":[6,0,0,6,6],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a9e3004a31135bd77bd17e3b10734a1bf":[6,0,0,6,43],
@@ -149,6 +150,7 @@ var NAVTREEINDEX1 =
 "namespacecimod_1_1__version.html":[5,0,0,0],
 "namespacecimod_1_1__version.html#a31f90ec9a47cecf4c0fed1b492af95e7":[5,0,0,0,1],
 "namespacecimod_1_1__version.html#ab276c3bd7b91b6fcfc268322bf27ea3c":[5,0,0,0,0],
+"namespacecimod_1_1__version.html#ada051d352825aad78da289b2c3b25ed3":[5,0,0,0,2],
 "namespacecimod_1_1model.html":[5,0,0,1],
 "namespacecimod_1_1model.html#a0ded2015f3ed234ed84df27c717adad2":[5,0,0,1,3],
 "namespacecimod_1_1model.html#aeb585048322afacb669b9e8716b736ed":[5,0,0,1,4],

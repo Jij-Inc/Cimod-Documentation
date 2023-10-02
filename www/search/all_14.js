@@ -9,5 +9,6 @@ var searchData=
   ['tohising_209',['ToHising',['../classcimod_1_1BinaryPolynomialModel.html#abf58031daeccbafa5b606f4e6aeb7d1f',1,'cimod::BinaryPolynomialModel']]],
   ['tohubo_210',['ToHubo',['../classcimod_1_1BinaryPolynomialModel.html#ad7782bcb97d84b19845d33d879be8b97',1,'cimod::BinaryPolynomialModel']]],
   ['toserializable_211',['ToSerializable',['../classcimod_1_1BinaryPolynomialModel.html#a95fe13ce6e2dd9c0cfedb53aa862c82b',1,'cimod::BinaryPolynomialModel']]],
-  ['tospin_212',['ToSpin',['../classcimod_1_1BinaryPolynomialModel.html#aa3c41f812d024b2d70182611e28a5e6b',1,'cimod::BinaryPolynomialModel']]]
+  ['tospin_212',['ToSpin',['../classcimod_1_1BinaryPolynomialModel.html#aa3c41f812d024b2d70182611e28a5e6b',1,'cimod::BinaryPolynomialModel']]],
+  ['type_5fchecking_213',['TYPE_CHECKING',['../namespacecimod_1_1__version.html#ada051d352825aad78da289b2c3b25ed3',1,'cimod::_version']]]
 ];

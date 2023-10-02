@@ -7,6 +7,7 @@ var NAVTREEINDEX0 =
 "__version_8py.html":[7,0,4],
 "__version_8py.html#a31f90ec9a47cecf4c0fed1b492af95e7":[7,0,4,1],
 "__version_8py.html#ab276c3bd7b91b6fcfc268322bf27ea3c":[7,0,4,0],
+"__version_8py.html#ada051d352825aad78da289b2c3b25ed3":[7,0,4,2],
 "annotated.html":[6,0],
 "binary__polynomial__model_8hpp.html":[7,0,5],
 "binary__polynomial__model_8hpp.html#a292564b3ace60c496890860f23bfa8bf":[7,0,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a7ec68b86d32f75e56af03669bc57d499":[6,0,0,6,3],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a831e7b01aa4d69da1d72eb43da73ff52":[6,0,0,6,19],
 "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a84d231b2c0c34abdcdc9600dcd09a4ae":[6,0,0,6,18],
-"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a893b8cdf6e770a1724af97e0576cf029":[6,0,0,6,0],
-"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a895f61d20d23d43d4325154f3587bc7e":[6,0,0,6,2]
+"classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a893b8cdf6e770a1724af97e0576cf029":[6,0,0,6,0]
 };
