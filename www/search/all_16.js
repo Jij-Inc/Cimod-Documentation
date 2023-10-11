@@ -9,5 +9,6 @@ var searchData=
   ['vartype_5f_223',['vartype_',['../classcimod_1_1BinaryPolynomialModel.html#a176582e28138e3e8420b9efdc124c694',1,'cimod::BinaryPolynomialModel']]],
   ['vartypes_2ehpp_224',['vartypes.hpp',['../vartypes_8hpp.html',1,'']]],
   ['vector_225',['Vector',['../classcimod_1_1BinaryQuadraticModel.html#a97692189aef7068a47be851e4609919c',1,'cimod::BinaryQuadraticModel']]],
-  ['vector_5fhash_226',['vector_hash',['../structcimod_1_1vector__hash.html',1,'cimod']]]
+  ['vector_5fhash_226',['vector_hash',['../structcimod_1_1vector__hash.html',1,'cimod']]],
+  ['version_5ftuple_227',['VERSION_TUPLE',['../namespacecimod_1_1__version.html#a3d3582015bbf491a440c862019e22d3f',1,'cimod::_version']]]
 ];

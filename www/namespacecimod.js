@@ -3,7 +3,8 @@ var namespacecimod =
     [ "_version", "namespacecimod_1_1__version.html", [
       [ "__version__", "namespacecimod_1_1__version.html#ab276c3bd7b91b6fcfc268322bf27ea3c", null ],
       [ "__version_tuple__", "namespacecimod_1_1__version.html#a31f90ec9a47cecf4c0fed1b492af95e7", null ],
-      [ "TYPE_CHECKING", "namespacecimod_1_1__version.html#ada051d352825aad78da289b2c3b25ed3", null ]
+      [ "TYPE_CHECKING", "namespacecimod_1_1__version.html#ada051d352825aad78da289b2c3b25ed3", null ],
+      [ "VERSION_TUPLE", "namespacecimod_1_1__version.html#a3d3582015bbf491a440c862019e22d3f", null ]
     ] ],
     [ "model", "namespacecimod_1_1model.html", "namespacecimod_1_1model" ],
     [ "utils", "namespacecimod_1_1utils.html", "namespacecimod_1_1utils" ],
