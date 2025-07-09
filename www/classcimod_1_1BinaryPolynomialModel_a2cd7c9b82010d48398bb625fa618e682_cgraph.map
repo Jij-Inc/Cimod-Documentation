@@ -1,5 +1,12 @@
 <map id="cimod::BinaryPolynomialModel::BinaryPolynomialModel" name="cimod::BinaryPolynomialModel::BinaryPolynomialModel">
-<area shape="rect" id="node1" title="BinaryPolynomialModel constructor." alt="" coords="5,5,231,47"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryPolynomialModel.html#a79f37716ea17317a9cc609b71b5079fa" title="Update sorted_variables_ and variables_to_integers_." alt="" coords="279,5,504,47"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryPolynomialModel.html#a3255cb29eb3b20704bc922a0476b6f60" title="Generate sorted variables." alt="" coords="552,5,777,47"/>
+<area shape="rect" id="Node000001" title="BinaryPolynomialModel constructor." alt="" coords="5,5,231,45"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="825,34,933,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,20,279,19,528,15,638,19,778,29,812,33,811,39,777,35,637,24,528,21,279,24,231,25"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryPolynomialModel.html#a79f37716ea17317a9cc609b71b5079fa" title="Update sorted_variables_ and variables_to_integers_." alt="" coords="279,33,504,73"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="231,34,266,38,265,43,231,40"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="844,36,837,26,841,16,855,10,879,7,909,11,921,20,918,24,907,16,879,13,857,15,845,20,842,25,849,32"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="504,49,812,45,812,50,504,54"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryPolynomialModel.html#a5697c5424952f378f3ff169b9d9cf742" title="Generate sorted variables." alt="" coords="552,84,777,124"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="500,71,544,79,543,84,499,76"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="739,81,817,60,818,66,741,87"/>
 </map>

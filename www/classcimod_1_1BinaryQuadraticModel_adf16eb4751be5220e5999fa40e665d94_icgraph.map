@@ -1,5 +1,7 @@
 <map id="cimod::BinaryQuadraticModel::fix_variable" name="cimod::BinaryQuadraticModel::fix_variable">
-<area shape="rect" id="node1" title="Fix the value of a variable and remove it from a binary quadratic model." alt="" coords="268,43,483,84"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#ac986c8b640564ebc7fbd586bc70ab248" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#ac9c37a3eaf9f522c3a16cdafdb7b9b83" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="5,71,220,127"/>
+<area shape="rect" id="Node000001" title="Fix the value of a variable and remove it from a binary quadratic model." alt="" coords="268,41,483,81"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#a2e6a05d6ad379e5e54705c6f049cebb8" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="5,5,220,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,47,220,43,221,37,255,42"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a5f569fb28b2c30b99bbcb1f313dc680b" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="5,70,220,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,81,221,85,220,80,254,75"/>
 </map>

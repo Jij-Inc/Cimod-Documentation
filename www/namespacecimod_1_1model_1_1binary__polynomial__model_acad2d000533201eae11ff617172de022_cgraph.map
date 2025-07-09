@@ -1,0 +1,11 @@
+<map id="cimod.model.binary_polynomial_model.make_BinaryPolynomialModel_from_hubo" name="cimod.model.binary_polynomial_model.make_BinaryPolynomialModel_from_hubo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,196,168"/>
+<area shape="rect" id="Node000002" href="$namespacecimod_1_1model_1_1binary__polynomial__model.html#add4f55399325c18d3da60803b9e9357e" title=" " alt="" coords="244,5,441,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,96,238,77,240,82,192,101"/>
+<area shape="rect" id="Node000003" href="$namespacecimod_1_1model_1_1binary__polynomial__model.html#aa564c3d7dd14ecb970812e56b853ef3f" title=" " alt="" coords="244,99,441,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,131,230,131,230,136,196,136"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="489,157,597,182"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="194,165,244,177,305,184,366,184,475,176,475,182,366,190,305,189,244,183,193,171"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,148,476,155,475,160,441,154"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="510,158,503,148,507,138,521,132,543,130,571,134,582,143,579,147,569,139,543,135,522,137,511,142,509,148,515,155"/>
+</map>

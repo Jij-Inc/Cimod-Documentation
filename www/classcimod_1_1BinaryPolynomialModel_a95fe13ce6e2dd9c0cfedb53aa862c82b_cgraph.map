@@ -1,7 +1,16 @@
 <map id="cimod::BinaryPolynomialModel::ToSerializable" name="cimod::BinaryPolynomialModel::ToSerializable">
-<area shape="rect" id="node1" title="Convert the BinaryPolynomialModel to a serializable object." alt="" coords="5,39,231,80"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryPolynomialModel.html#ac5d23c8c5d7525ede49e08d2e411d50f" title="Return the number of the interactions." alt="" coords="279,5,504,47"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryPolynomialModel.html#aad5b50bd2cf6c692b76d58399dbf4ca8" title="Return the sorted variables as std::vector." alt="" coords="279,71,504,112"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryPolynomialModel.html#a79f37716ea17317a9cc609b71b5079fa" title="Update sorted_variables_ and variables_to_integers_." alt="" coords="552,71,777,112"/>
-<area shape="rect" id="node5" href="$classcimod_1_1BinaryPolynomialModel.html#a3255cb29eb3b20704bc922a0476b6f60" title="Generate sorted variables." alt="" coords="825,71,1051,112"/>
+<area shape="rect" id="Node000001" title="Convert the BinaryPolynomialModel to a serializable object." alt="" coords="5,29,231,69"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="1099,37,1207,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,27,278,15,393,6,511,3,740,9,940,23,1085,38,1085,43,939,28,739,14,511,9,394,12,279,20,204,32"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryPolynomialModel.html#ac5d23c8c5d7525ede49e08d2e411d50f" title="Return the number of the interactions." alt="" coords="279,29,504,69"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="231,47,265,47,265,52,231,52"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryPolynomialModel.html#a1b61af1de6381f8f9bc40152934cbf63" title="Return the sorted variables as std::vector." alt="" coords="279,93,504,133"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="205,67,293,88,292,93,204,72"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="1118,38,1110,28,1114,18,1129,12,1153,10,1182,14,1194,23,1191,27,1180,19,1153,15,1130,17,1118,22,1115,28,1122,35"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryPolynomialModel.html#a79f37716ea17317a9cc609b71b5079fa" title="Update sorted_variables_ and variables_to_integers_." alt="" coords="552,87,777,127"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="504,108,539,107,539,112,504,113"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="755,84,825,72,964,57,1085,49,1085,55,964,63,826,77,756,89"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryPolynomialModel.html#a5697c5424952f378f3ff169b9d9cf742" title="Generate sorted variables." alt="" coords="825,87,1051,127"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="778,104,812,104,812,109,778,109"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="1013,84,1090,63,1092,68,1014,89"/>
 </map>

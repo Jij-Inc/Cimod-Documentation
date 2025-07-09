@@ -1,0 +1,14 @@
+<map id="cimod::BinaryQuadraticModel::to_ising" name="cimod::BinaryQuadraticModel::to_ising">
+<area shape="rect" id="Node000001" title="Convert a binary quadratic model to Ising format." alt="" coords="5,99,220,139"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#af4152510bff1ec20c037e763cb4314fd" title="‍**" alt="" coords="268,69,483,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,104,254,100,255,105,220,109"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="793,77,901,102"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="220,118,268,119,403,124,508,132,612,133,745,119,801,104,802,109,746,124,612,138,507,137,402,129,268,124,220,123"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#a30d0230182a2c8c3b9f72553797fe3a6" title="change internal variable from QUBO to Ising ones for dense matrix The following conversion is applied..." alt="" coords="531,5,745,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,67,541,46,543,51,459,72"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel.html#a4d2edff5e679f8ec536f65d8c41ee2e9" title="change internal variable from Ising to QUBO ones for dense matrix The following conversion is applied..." alt="" coords="531,69,745,109"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="483,87,517,87,517,92,483,92"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,43,746,55,794,70,792,75,745,60,706,48"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="813,78,806,68,810,58,824,52,847,50,876,54,888,63,884,67,874,59,847,55,825,57,813,62,811,68,817,75"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="746,87,780,87,780,92,746,92"/>
+</map>

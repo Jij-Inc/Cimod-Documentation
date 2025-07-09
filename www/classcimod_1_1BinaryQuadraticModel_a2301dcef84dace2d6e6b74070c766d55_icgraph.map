@@ -1,7 +1,11 @@
 <map id="cimod::BinaryQuadraticModel::add_interaction" name="cimod::BinaryQuadraticModel::add_interaction">
-<area shape="rect" id="node1" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="543,86,757,127"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#af35e188d73eb83f8f80670dc647ca3ac" title="Add interactions and/or quadratic biases to a binary quadratic model." alt="" coords="277,13,491,54"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#abd86aeed91444321298015b66f6e9722" title="Add interactions and/or quadratic biases to a binary quadratic model." alt="" coords="273,79,495,135"/>
-<area shape="rect" id="node5" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aeb1444e0f14edb2bbd401954020e5196" title="Enforce u, v being the same variable in a binary quadratic model." alt="" coords="277,159,491,215"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0755612298a75bf00f8ce24116eef343" title="BinaryQuadraticModel constructor." alt="" coords="5,5,225,61"/>
+<area shape="rect" id="Node000001" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="543,85,757,125"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#af35e188d73eb83f8f80670dc647ca3ac" title="Add interactions and/or quadratic biases to a binary quadratic model." alt="" coords="277,13,491,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,84,458,55,459,50,563,78"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#abd86aeed91444321298015b66f6e9722" title="Add interactions and/or quadratic biases to a binary quadratic model." alt="" coords="273,77,495,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="529,107,495,107,495,102,529,102"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aeb1444e0f14edb2bbd401954020e5196" title="Enforce u, v being the same variable in a binary quadratic model." alt="" coords="277,156,491,211"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="569,131,478,158,476,153,568,126"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0755612298a75bf00f8ce24116eef343" title="BinaryQuadraticModel constructor." alt="" coords="5,5,225,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,35,225,35,225,30,263,30"/>
 </map>

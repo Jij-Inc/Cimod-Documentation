@@ -1,5 +1,11 @@
 <map id="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::add_variable" name="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::add_variable">
-<area shape="rect" id="node1" title="Add variable v and/or its bias to a binary quadratic model." alt="" coords="5,27,220,83"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#a64849908376beca3681b417b1eb975cb" title="Get the vartype object." alt="" coords="268,5,483,47"/>
-<area shape="rect" id="node3" href="$namespacecimod.html#a46d0f47a0eb43d0a7383c623883e531d" title="Insert or assign a element of unordered_map (for C++14 or C++11)" alt="" coords="287,71,463,98"/>
+<area shape="rect" id="Node000001" title="Add variable v and/or its bias to a binary quadratic model." alt="" coords="5,19,220,74"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="531,34,639,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,19,268,12,376,3,423,5,483,12,540,27,538,32,482,17,422,10,376,8,268,17,220,24"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#a64849908376beca3681b417b1eb975cb" title="Get the vartype object." alt="" coords="268,27,483,67"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="220,44,254,44,254,49,220,49"/>
+<area shape="rect" id="Node000004" href="$namespacecimod.html#a46d0f47a0eb43d0a7383c623883e531d" title="Insert or assign a element of unordered_map (for C++14 or C++11)" alt="" coords="287,91,463,117"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="221,68,303,86,302,91,220,73"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="551,36,543,26,547,16,561,10,585,7,614,11,625,20,622,24,612,16,585,13,563,15,551,20,548,25,555,32"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="433,89,482,76,532,61,533,66,483,81,434,94"/>
 </map>

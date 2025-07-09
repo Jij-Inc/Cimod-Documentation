@@ -1,0 +1,17 @@
+<map id="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::to_qubo" name="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::to_qubo">
+<area shape="rect" id="Node000001" title="Convert a binary quadratic model to QUBO format." alt="" coords="5,119,220,174"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#af4152510bff1ec20c037e763cb4314fd" title="‍**" alt="" coords="268,69,483,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,121,270,110,271,115,221,126"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="793,106,901,131"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="220,140,779,119,779,124,220,145"/>
+<area shape="rect" id="Node000006" href="$namespacecimod.html#a46d0f47a0eb43d0a7383c623883e531d" title="Insert or assign a element of unordered_map (for C++14 or C++11)" alt="" coords="287,185,463,210"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="221,165,296,179,295,185,220,170"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#a30d0230182a2c8c3b9f72553797fe3a6" title="change internal variable from QUBO to Ising ones for dense matrix The following conversion is applied..." alt="" coords="531,5,745,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,67,541,46,543,51,459,72"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel.html#a4d2edff5e679f8ec536f65d8c41ee2e9" title="change internal variable from Ising to QUBO ones for dense matrix The following conversion is applied..." alt="" coords="531,69,745,109"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="483,87,517,87,517,92,483,92"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="715,43,746,55,785,75,818,96,816,101,782,79,744,60,713,48"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="813,108,806,98,810,88,824,82,847,79,876,83,888,92,884,96,874,88,847,85,825,87,813,91,811,97,817,104"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="746,102,780,107,779,112,745,107"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="463,196,597,188,672,178,745,163,779,151,811,136,813,140,781,155,746,168,673,184,598,193,464,201"/>
+</map>

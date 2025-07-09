@@ -1,9 +1,15 @@
 <map id="cimod::insert_or_assign" name="cimod::insert_or_assign">
-<area shape="rect" id="node1" title="Insert or assign a element of unordered_map (for C++14 or C++11)" alt="" coords="268,220,444,247"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0635ea156a2ffe9f7b95944a49afca1f" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="5,5,220,61"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aa3b8710221d08380ed2c7d4807a5f069" title="Add variable v and/or its bias to a binary quadratic model." alt="" coords="5,85,220,141"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a84d231b2c0c34abdcdc9600dcd09a4ae" title="Convert linear, quadratic and offset from binary to spin." alt="" coords="5,165,220,221"/>
-<area shape="rect" id="node5" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a36c973c84f1ca18ec795ba3e2c81040b" title="Create a BinaryQuadraticModel instance from a serializable object." alt="" coords="5,245,220,301"/>
-<area shape="rect" id="node6" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a48d260effa3dfb73690f96ce8ca400fa" title="Convert linear, quadratic, and offset from spin to binary." alt="" coords="5,325,220,381"/>
-<area shape="rect" id="node7" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a5e8a459dcc20e73bf57993ab14244a09" title="Convert a binary quadratic model to QUBO format." alt="" coords="5,405,220,461"/>
+<area shape="rect" id="Node000001" title="Insert or assign a element of unordered_map (for C++14 or C++11)" alt="" coords="268,217,444,243"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0635ea156a2ffe9f7b95944a49afca1f" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="5,5,220,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,207,289,141,256,105,218,74,200,62,202,58,222,69,260,101,294,138,342,204"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aa3b8710221d08380ed2c7d4807a5f069" title="Add variable v and/or its bias to a binary quadratic model." alt="" coords="5,84,220,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,212,275,182,219,152,193,141,195,136,221,148,277,178,326,208"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#ad91f89925d2794fa8b30624cead97c86" title="Convert linear, quadratic and offset from binary to spin." alt="" coords="5,163,220,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,218,220,210,221,205,265,212"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a8d65c76d568828538bdc853e6ed1019d" title="Create a BinaryQuadraticModel instance from a serializable object." alt="" coords="5,241,220,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,248,221,254,220,249,262,242"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aa0871e8139723e249a50625f4ba90b37" title="Convert linear, quadratic, and offset from spin to binary." alt="" coords="5,320,220,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="325,252,277,281,221,310,192,322,190,317,219,305,274,276,322,248"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a80edeeef633d81923dc4b266423b5b00" title="Convert a binary quadratic model to QUBO format." alt="" coords="5,399,220,453"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="342,256,293,321,259,357,222,388,200,401,197,396,218,384,256,353,289,317,337,253"/>
 </map>

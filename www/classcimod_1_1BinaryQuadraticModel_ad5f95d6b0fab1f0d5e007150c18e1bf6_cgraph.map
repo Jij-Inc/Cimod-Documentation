@@ -1,0 +1,6 @@
+<map id="cimod::BinaryQuadraticModel::_max_linear" name="cimod::BinaryQuadraticModel::_max_linear">
+<area shape="rect" id="Node000001" title="calculate maximum element in linear term for dense graph" alt="" coords="5,22,220,62"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="268,29,376,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,39,254,39,254,45,220,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="288,31,281,21,284,11,299,5,322,3,351,6,362,15,359,20,349,11,322,8,300,10,288,15,286,20,292,28"/>
+</map>

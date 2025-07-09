@@ -1,4 +1,7 @@
 <map id="cimod::BinaryPolynomialModel::Energy" name="cimod::BinaryPolynomialModel::Energy">
-<area shape="rect" id="node1" title="Determine the energy of the specified sample of the BinaryPolynomialModel." alt="" coords="279,5,504,47"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryPolynomialModel.html#a61cf0535f9f01cea4d975cec1e685c56" title="Determine the energies of the given samples." alt="" coords="5,5,231,47"/>
+<area shape="rect" id="Node000001" title="Determine the energy of the specified sample of the BinaryPolynomialModel." alt="" coords="279,37,504,77"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryPolynomialModel.html#a80a78d78a9e336cab2b59f614b75661d" title="Determine the energies of the given samples." alt="" coords="5,5,231,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,45,230,41,231,36,265,40"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryPolynomialModel.html#a4f9485eea5fffbc80e92e5fec5e453c1" title="Determine the energies of the given samples_vec." alt="" coords="5,69,231,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,75,231,79,230,74,265,69"/>
 </map>

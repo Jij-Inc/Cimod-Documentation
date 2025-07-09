@@ -1,8 +1,8 @@
 var namespacecimod_1_1utils =
 [
     [ "decolator", "namespacecimod_1_1utils_1_1decolator.html", [
-      [ "disabled", "namespacecimod_1_1utils_1_1decolator.html#a43d313d1b914bcc720d91f58ed9f30a7", null ],
-      [ "recalc", "namespacecimod_1_1utils_1_1decolator.html#a73f02ed7822eb3292cb75b52426bebaf", null ],
+      [ "disabled", "namespacecimod_1_1utils_1_1decolator.html#a828c435f6a3db47fe8064cb9836bceea", null ],
+      [ "recalc", "namespacecimod_1_1utils_1_1decolator.html#a6d816198320fcbedc9ede8247d875404", null ],
       [ "_re_calculate", "namespacecimod_1_1utils_1_1decolator.html#a91ca5cb9f130a97a411b064af1690630", null ],
       [ "_re_calculate_indices", "namespacecimod_1_1utils_1_1decolator.html#a6180fb4068669bfa7dc7e341b3d5303e", null ]
     ] ],

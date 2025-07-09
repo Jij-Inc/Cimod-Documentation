@@ -1,0 +1,17 @@
+<map id="cimod::BinaryPolynomialModel::ToHising" name="cimod::BinaryPolynomialModel::ToHising">
+<area shape="rect" id="Node000001" title="Generate the polynomial interactions corresponding to the vartype being SPIN from the BinaryPolynomia..." alt="" coords="5,106,231,146"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="552,113,660,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,104,201,62,238,42,278,27,341,11,393,3,444,8,505,28,531,42,555,61,590,100,586,104,551,65,528,46,503,32,443,13,393,9,342,16,279,33,240,47,204,67,145,108"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryPolynomialModel.html#aa1e3f16a9df6726ca9065af9e33cc64c" title="Generate the num_of_key&#45;th the key when the vartype is changed." alt="" coords="279,42,504,82"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="204,103,292,82,293,88,205,109"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryPolynomialModel.html#ac5d23c8c5d7525ede49e08d2e411d50f" title="Return the number of the interactions." alt="" coords="279,106,504,146"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="231,123,265,123,265,129,231,129"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryPolynomialModel.html#a5c3691822884d1bccbad4173f7f7177b" title="Get the Polynomial object." alt="" coords="279,170,504,210"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="205,143,293,164,292,170,204,149"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryPolynomialModel.html#a2abb34f442d51120b1996dc42fe12344" title="Caluculate the base to the power of exponent (std::pow(base, exponent) is too slow)." alt="" coords="279,234,504,274"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="149,144,208,182,280,220,299,227,297,232,278,224,205,186,146,148"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="571,115,564,105,567,95,582,89,606,87,636,90,647,99,644,104,634,95,606,92,583,94,571,99,569,104,575,112"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="464,79,505,91,554,107,552,112,503,97,463,85"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="463,167,503,155,552,140,554,145,505,161,464,173"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="478,231,503,220,548,185,584,148,588,151,552,189,505,224,480,236"/>
+</map>

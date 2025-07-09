@@ -1,7 +1,11 @@
 <map id="utilities.hpp" name="utilities.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="162,5,261,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,129,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="154,80,269,107"/>
-<area shape="rect" id="node4" href="$vartypes_8hpp.html" title=" " alt="" coords="293,80,444,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="329,155,409,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="162,5,261,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,129,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,33,104,75,102,70,187,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="154,79,269,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,31,214,65,209,65,209,31"/>
+<area shape="rect" id="Node000004" href="$vartypes_8hpp.html" title=" " alt="" coords="293,79,444,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,28,332,71,330,75,236,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="329,152,409,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="371,104,371,138,366,138,366,104"/>
 </map>

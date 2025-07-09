@@ -1,12 +1,21 @@
 <map id="cimod::BinaryQuadraticModel::add_variable" name="cimod::BinaryQuadraticModel::add_variable">
-<area shape="rect" id="node1" title="Add variable v and/or its bias to a binary quadratic model." alt="" coords="536,199,751,241"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0635ea156a2ffe9f7b95944a49afca1f" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="273,5,488,61"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel.html#a07f9f8f3d5b16172634ba0be5511ea3b" title="Add variables and/or linear biases to a binary quadratic model." alt="" coords="273,86,488,127"/>
-<area shape="rect" id="node5" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aef7c2d0ba2f41e31422efc9382406de9" title="Add variables and/or linear biases to a binary quadratic model." alt="" coords="273,152,488,208"/>
-<area shape="rect" id="node6" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aeb1444e0f14edb2bbd401954020e5196" title="Enforce u, v being the same variable in a binary quadratic model." alt="" coords="273,232,488,288"/>
-<area shape="rect" id="node7" href="$classcimod_1_1BinaryQuadraticModel.html#adf16eb4751be5220e5999fa40e665d94" title="Fix the value of a variable and remove it from a binary quadratic model." alt="" coords="273,313,488,354"/>
-<area shape="rect" id="node10" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a379a16220c63eb71b4de63a00513cec4" title="Fix the value of a variable and remove it from a binary quadratic model." alt="" coords="273,379,488,435"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0755612298a75bf00f8ce24116eef343" title="BinaryQuadraticModel constructor." alt="" coords="5,79,225,135"/>
-<area shape="rect" id="node8" href="$classcimod_1_1BinaryQuadraticModel.html#ac986c8b640564ebc7fbd586bc70ab248" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="8,275,223,317"/>
-<area shape="rect" id="node9" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#ac9c37a3eaf9f522c3a16cdafdb7b9b83" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="8,341,223,397"/>
+<area shape="rect" id="Node000001" title="Add variable v and/or its bias to a binary quadratic model." alt="" coords="536,197,751,237"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0635ea156a2ffe9f7b95944a49afca1f" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="273,5,488,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="614,188,559,131,524,101,487,75,463,62,466,58,489,70,527,97,562,127,618,184"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#a07f9f8f3d5b16172634ba0be5511ea3b" title="Add variables and/or linear biases to a binary quadratic model." alt="" coords="273,85,488,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="594,192,543,165,487,139,454,127,456,122,489,134,546,160,597,187"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aef7c2d0ba2f41e31422efc9382406de9" title="Add variables and/or linear biases to a binary quadratic model." alt="" coords="273,149,488,204"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="522,201,488,196,489,190,523,196"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aeb1444e0f14edb2bbd401954020e5196" title="Enforce u, v being the same variable in a binary quadratic model." alt="" coords="273,228,488,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="523,237,489,242,488,237,522,232"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryQuadraticModel.html#adf16eb4751be5220e5999fa40e665d94" title="Fix the value of a variable and remove it from a binary quadratic model." alt="" coords="273,307,488,347"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="595,246,489,296,452,310,451,305,487,292,593,241"/>
+<area shape="rect" id="Node000010" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a379a16220c63eb71b4de63a00513cec4" title="Fix the value of a variable and remove it from a binary quadratic model." alt="" coords="273,372,488,427"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="618,249,562,305,527,335,489,362,466,374,463,369,487,357,524,331,558,301,614,245"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a0755612298a75bf00f8ce24116eef343" title="BinaryQuadraticModel constructor." alt="" coords="5,77,225,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,107,226,107,226,102,260,102"/>
+<area shape="rect" id="Node000008" href="$classcimod_1_1BinaryQuadraticModel.html#a2e6a05d6ad379e5e54705c6f049cebb8" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="8,271,223,311"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="260,314,222,309,223,303,260,308"/>
+<area shape="rect" id="Node000009" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a5f569fb28b2c30b99bbcb1f313dc680b" title="Fix the value of the variables and remove it from a binary quadratic model." alt="" coords="8,336,223,391"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="260,346,223,351,222,346,260,341"/>
 </map>

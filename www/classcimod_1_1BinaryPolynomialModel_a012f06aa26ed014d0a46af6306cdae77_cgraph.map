@@ -1,5 +1,11 @@
 <map id="cimod::BinaryPolynomialModel::RemoveOffset" name="cimod::BinaryPolynomialModel::RemoveOffset">
-<area shape="rect" id="node1" title="Set the offset of the BinaryPolynomialModel to zero." alt="" coords="5,5,231,47"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryPolynomialModel.html#ae624c6ec0e3f021c25965a38d29c8124" title="Remove the specified interaction from the BinaryPolynomialModel." alt="" coords="279,5,504,47"/>
-<area shape="rect" id="node3" href="$namespacecimod.html#a978eef1a73beadb78c207c070eed3baf" title="Format the input key: for example, {2,1,1}&#45;&#45;&gt;{1,2} for BINARY variable and {2,1,1}&#45;&#45;&gt;{2} for SPIN var..." alt="" coords="552,13,765,39"/>
+<area shape="rect" id="Node000001" title="Set the offset of the BinaryPolynomialModel to zero." alt="" coords="5,22,231,62"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryPolynomialModel.html#ae624c6ec0e3f021c25965a38d29c8124" title="Remove the specified interaction from the BinaryPolynomialModel." alt="" coords="279,22,504,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,39,265,39,265,45,231,45"/>
+<area shape="rect" id="Node000003" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="813,29,921,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,39,799,39,799,45,504,45"/>
+<area shape="rect" id="Node000004" href="$namespacecimod.html#a978eef1a73beadb78c207c070eed3baf" title="Format the input key: for example, {2,1,1}&#45;&#45;&gt;{1,2} for BINARY variable and {2,1,1}&#45;&#45;&gt;{2} for SPIN var..." alt="" coords="552,55,765,80"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="504,50,539,53,538,59,504,55"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="833,31,826,21,830,11,844,5,867,3,896,6,908,15,904,20,894,11,867,8,845,10,833,15,831,20,837,28"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="763,52,800,47,800,53,764,57"/>
 </map>

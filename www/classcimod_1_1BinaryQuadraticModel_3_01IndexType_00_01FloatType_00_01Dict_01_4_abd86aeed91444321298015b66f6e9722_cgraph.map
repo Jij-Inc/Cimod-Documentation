@@ -1,9 +1,24 @@
 <map id="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::add_interactions_from" name="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::add_interactions_from">
-<area shape="rect" id="node1" title="Add interactions and/or quadratic biases to a binary quadratic model." alt="" coords="5,97,227,153"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#a2301dcef84dace2d6e6b74070c766d55" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="275,104,489,145"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel.html#ade3afe91bf6a9c554856b5bf7c27f629" title="add new label if label_i already exists, this process is skipped." alt="" coords="537,71,752,112"/>
-<area shape="rect" id="node6" href="$classcimod_1_1BinaryQuadraticModel.html#a1d3615e29779af572a746de9f40faacc" title="get reference of _quadmat(i,j)" alt="" coords="537,136,752,177"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryQuadraticModel.html#aad097cb5d176001157ca634cab039eff" title="insert row and column that corresponds to added label into _quadmat for dense matrix" alt="" coords="800,5,1015,47"/>
-<area shape="rect" id="node5" href="$classcimod_1_1BinaryQuadraticModel.html#a2c057f7261dfc4fdde0c34ee073f0c9f" title="set _label_to_idx from _idx_to_label" alt="" coords="800,71,1015,112"/>
-<area shape="rect" id="node7" href="$classcimod_1_1BinaryQuadraticModel.html#ac926cb7561cdbe3bcf1d09b0bd961b43" title="access elements for dense matrix" alt="" coords="800,136,1015,177"/>
+<area shape="rect" id="Node000001" title="Add interactions and/or quadratic biases to a binary quadratic model." alt="" coords="5,282,227,337"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#a2301dcef84dace2d6e6b74070c766d55" title="Add an interaction and/or quadratic bias to a binary quadratic model." alt="" coords="275,207,489,247"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,279,303,248,305,253,205,284"/>
+<area shape="rect" id="Node000005" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="1063,185,1171,210"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="200,334,271,354,359,375,459,393,567,405,681,409,796,400,852,391,908,377,962,358,1013,335,1045,312,1070,282,1090,250,1103,222,1108,224,1094,253,1075,285,1048,316,1016,340,964,363,909,382,854,396,797,406,681,414,567,411,458,398,358,380,270,359,198,339"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#ade3afe91bf6a9c554856b5bf7c27f629" title="add new label if label_i already exists, this process is skipped." alt="" coords="537,92,752,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,204,584,135,586,140,430,209"/>
+<area shape="poly" id="edge13_Node000002_Node000005" title=" " alt="" coords="489,220,1048,197,1049,203,489,225"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryQuadraticModel.html#a570b3cb786b5987a7c89309f69f0f8d6" title="get reference of _quadmat(i,j)" alt="" coords="537,235,752,275"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="490,235,524,239,523,244,489,241"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryQuadraticModel.html#aad097cb5d176001157ca634cab039eff" title="insert row and column that corresponds to added label into _quadmat for dense matrix" alt="" coords="800,5,1015,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="705,89,832,47,833,52,707,94"/>
+<area shape="poly" id="edge8_Node000003_Node000005" title=" " alt="" coords="743,89,806,82,875,81,947,87,1016,106,1041,118,1064,135,1099,172,1095,175,1060,139,1038,123,1014,110,946,93,875,86,806,88,744,95"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryQuadraticModel.html#a2c057f7261dfc4fdde0c34ee073f0c9f" title="set _label_to_idx from _idx_to_label" alt="" coords="800,120,1015,160"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="752,121,787,124,786,130,752,126"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="982,43,1016,62,1045,87,1069,117,1105,171,1100,174,1065,120,1041,91,1013,66,980,48"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="1083,186,1075,176,1079,166,1093,160,1117,158,1146,162,1157,171,1154,175,1144,167,1117,163,1095,165,1083,170,1080,176,1087,183"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="982,157,1057,178,1055,183,980,163"/>
+<area shape="poly" id="edge12_Node000007_Node000005" title=" " alt="" coords="752,243,878,230,1014,213,1049,208,1049,213,1015,219,878,236,753,248"/>
+<area shape="rect" id="Node000008" href="$classcimod_1_1BinaryQuadraticModel.html#afded05f636b81f47d10dc1a83c907d48" title="access elements for dense matrix" alt="" coords="800,285,1015,325"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="749,272,791,280,790,285,748,277"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="971,283,1013,264,1053,241,1087,217,1090,221,1055,245,1016,269,973,288"/>
 </map>

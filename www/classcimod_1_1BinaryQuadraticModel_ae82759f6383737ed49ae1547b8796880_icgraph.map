@@ -1,5 +1,7 @@
 <map id="cimod::BinaryQuadraticModel::energy" name="cimod::BinaryQuadraticModel::energy">
-<area shape="rect" id="node1" title="Determine the energy of the specified sample of a binary quadratic model." alt="" coords="268,43,483,84"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#a92816201ccdda1a67c201d546d3f0fdc" title="Determine the energies of the given samples." alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#add78fc7c434bc454261aadd86393d63a" title="Determine the energies of the given samples." alt="" coords="5,71,220,127"/>
+<area shape="rect" id="Node000001" title="Determine the energy of the specified sample of a binary quadratic model." alt="" coords="268,41,483,81"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#a9d318bd914f798128735072842e6ecdd" title="Determine the energies of the given samples." alt="" coords="5,5,220,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,47,220,43,221,37,255,42"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#a48c8a4d613a11f0229872ea76053e071" title="Determine the energies of the given samples." alt="" coords="5,70,220,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,81,221,85,220,80,254,75"/>
 </map>

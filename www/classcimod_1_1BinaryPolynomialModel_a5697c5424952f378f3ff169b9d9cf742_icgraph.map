@@ -1,0 +1,31 @@
+<map id="cimod::BinaryPolynomialModel::GenerateSortedVariables" name="cimod::BinaryPolynomialModel::GenerateSortedVariables">
+<area shape="rect" id="Node000001" title="Generate sorted variables." alt="" coords="825,133,1051,173"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryPolynomialModel.html#a007eabe4beb3d70cb19c6d3228c6d627" title="Generate variables_to_integers." alt="" coords="552,37,777,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="866,131,722,80,724,75,868,126"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryPolynomialModel.html#ae08dabb67f1e724729aa4dc25b69be47" title="Return the sorted variables as std::vector." alt="" coords="552,133,777,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="812,156,777,156,777,151,812,151"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryPolynomialModel.html#a79f37716ea17317a9cc609b71b5079fa" title="Update sorted_variables_ and variables_to_integers_." alt="" coords="552,261,777,301"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="883,182,710,264,707,259,881,177"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryPolynomialModel.html#a21b25f94104b8877cf67f08d9911f0ac" title="Get variables_to_integers object." alt="" coords="279,5,504,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,45,504,41,504,36,539,40"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryPolynomialModel.html#adee1ecc09d521a3663c69cae286515e8" title="BinaryPolynomialModel constructor." alt="" coords="279,69,504,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="624,255,587,223,550,187,536,169,528,152,518,138,502,124,481,112,484,107,506,119,522,134,532,150,541,166,554,184,591,219,628,251"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryPolynomialModel.html#a4cc4e320a97510608cf41e27767c9780" title="BinaryPolynomialModel constructor." alt="" coords="279,133,504,173"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="623,256,567,221,503,188,471,176,473,171,505,183,570,216,625,251"/>
+<area shape="rect" id="Node000008" href="$classcimod_1_1BinaryPolynomialModel.html#a2cd7c9b82010d48398bb625fa618e682" title="BinaryPolynomialModel constructor." alt="" coords="279,197,504,237"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="565,261,477,240,478,235,566,256"/>
+<area shape="rect" id="Node000009" href="$classcimod_1_1BinaryPolynomialModel.html#a3d4990b2b254f3741053923e6d664fef" title="BinaryPolynomialModel constructor." alt="" coords="279,261,504,301"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="538,284,504,284,504,279,538,279"/>
+<area shape="rect" id="Node000010" href="$classcimod_1_1BinaryPolynomialModel.html#a137c52dc5b23b123c5ea088c70daa60c" title="Determine the energy of the specified sample_vec (as std::vector) of the BinaryPolynomialModel." alt="" coords="279,325,504,365"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="566,307,478,328,477,323,565,302"/>
+<area shape="rect" id="Node000011" href="$classcimod_1_1BinaryPolynomialModel.html#a1b61af1de6381f8f9bc40152934cbf63" title="Return the sorted variables as std::vector." alt="" coords="279,389,504,429"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="625,311,570,346,505,380,473,392,471,387,503,375,567,342,623,307"/>
+<area shape="rect" id="Node000014" href="$classcimod_1_1BinaryPolynomialModel.html#a7d1069750b6765440a67be68e4a2ed14" title="Get variables_to_integers object." alt="" coords="279,453,504,493"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="642,314,585,380,547,414,505,444,481,456,478,451,503,439,544,410,581,376,638,311"/>
+<area shape="rect" id="Node000015" href="$classcimod_1_1BinaryPolynomialModel.html#a1b8e91973c1dc771f1fb4b2d52b32d5b" title="Get the specific integer number corresponding to the input variable (index)." alt="" coords="279,517,504,557"/>
+<area shape="poly" id="edge14_Node000005_Node000015" title=" " alt="" coords="651,315,629,359,596,411,555,463,506,507,485,519,482,515,502,503,551,459,592,408,624,356,646,313"/>
+<area shape="rect" id="Node000012" href="$classcimod_1_1BinaryPolynomialModel.html#a56aeb16ad506bd134331c64040060110" title="Get the specific integer number corresponding to the input variable (index)." alt="" coords="5,357,231,397"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="265,397,230,393,231,388,265,392"/>
+<area shape="rect" id="Node000013" href="$classcimod_1_1BinaryPolynomialModel.html#a95fe13ce6e2dd9c0cfedb53aa862c82b" title="Convert the BinaryPolynomialModel to a serializable object." alt="" coords="5,421,231,461"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="265,427,231,431,230,426,265,421"/>
+</map>

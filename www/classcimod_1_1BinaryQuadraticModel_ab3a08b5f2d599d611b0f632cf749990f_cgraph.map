@@ -1,5 +1,12 @@
 <map id="cimod::BinaryQuadraticModel::get_linear" name="cimod::BinaryQuadraticModel::get_linear">
-<area shape="rect" id="node1" title="Get the element of linear object." alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#a1d3615e29779af572a746de9f40faacc" title="get reference of _quadmat(i,j)" alt="" coords="268,5,483,47"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel.html#ac926cb7561cdbe3bcf1d09b0bd961b43" title="access elements for dense matrix" alt="" coords="531,5,745,47"/>
+<area shape="rect" id="Node000001" title="Get the element of linear object." alt="" coords="5,85,220,125"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#a570b3cb786b5987a7c89309f69f0f8d6" title="get reference of _quadmat(i,j)" alt="" coords="268,56,483,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,91,254,87,255,92,220,96"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="793,70,901,95"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="220,105,268,105,375,107,483,105,643,97,779,86,780,91,643,102,483,111,375,112,268,111,220,110"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#afded05f636b81f47d10dc1a83c907d48" title="access elements for dense matrix" alt="" coords="531,5,745,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,53,520,45,521,51,480,59"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="483,75,779,79,779,84,483,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="712,43,787,64,786,69,711,48"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="813,72,806,62,810,52,824,46,847,43,876,47,888,56,884,60,874,52,847,49,825,51,813,55,811,61,817,68"/>
 </map>

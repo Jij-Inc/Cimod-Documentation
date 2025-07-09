@@ -1,9 +1,25 @@
 <map id="cimod::BinaryPolynomialModel::AddInteractionsFrom" name="cimod::BinaryPolynomialModel::AddInteractionsFrom">
-<area shape="rect" id="node1" title="Add interactions to the BinaryPolynomialModel." alt="" coords="5,66,231,108"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryPolynomialModel.html#a486b88bab15cdc0d5d82326dd0c460ad" title="Add an interaction to the BinaryPolynomialModel." alt="" coords="279,66,504,108"/>
-<area shape="rect" id="node3" href="$namespacecimod.html#a978eef1a73beadb78c207c070eed3baf" title="Format the input key: for example, {2,1,1}&#45;&#45;&gt;{1,2} for BINARY variable and {2,1,1}&#45;&#45;&gt;{2} for SPIN var..." alt="" coords="1099,76,1312,103"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryPolynomialModel.html#a9b96dc7658a02d9c99dca899a7509365" title="Generate the num_of_key&#45;th the key when the vartype is changed." alt="" coords="552,33,777,74"/>
-<area shape="rect" id="node5" href="$classcimod_1_1BinaryPolynomialModel.html#a2abb34f442d51120b1996dc42fe12344" title="Caluculate the base to the power of exponent (std::pow(base, exponent) is too slow)." alt="" coords="552,98,777,140"/>
-<area shape="rect" id="node6" href="$classcimod_1_1BinaryPolynomialModel.html#a7427fb3d2bc707a31b7de468e2438ca9" title="Set key and value." alt="" coords="552,164,777,205"/>
-<area shape="rect" id="node7" href="$classcimod_1_1BinaryPolynomialModel.html#ae624c6ec0e3f021c25965a38d29c8124" title="Remove the specified interaction from the BinaryPolynomialModel." alt="" coords="825,98,1051,140"/>
+<area shape="rect" id="Node000001" title="Add interactions to the BinaryPolynomialModel." alt="" coords="5,269,231,309"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryPolynomialModel.html#a486b88bab15cdc0d5d82326dd0c460ad" title="Add an interaction to the BinaryPolynomialModel." alt="" coords="279,183,504,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,266,313,225,314,230,184,271"/>
+<area shape="rect" id="Node000003" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="1372,164,1480,189"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="231,303,432,327,548,336,663,339,939,339,999,342,1051,347,1140,358,1181,359,1224,353,1271,339,1323,314,1354,291,1379,261,1398,229,1412,201,1417,203,1403,232,1383,264,1357,295,1325,319,1272,344,1225,358,1182,364,1140,363,1050,352,999,347,939,345,663,345,548,341,432,332,231,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,198,1358,176,1358,181,504,203"/>
+<area shape="rect" id="Node000004" href="$namespacecimod.html#a978eef1a73beadb78c207c070eed3baf" title="Format the input key: for example, {2,1,1}&#45;&#45;&gt;{1,2} for BINARY variable and {2,1,1}&#45;&#45;&gt;{2} for SPIN var..." alt="" coords="1105,113,1318,139"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="450,181,499,167,552,155,696,137,841,126,977,122,1091,121,1091,126,977,127,842,132,696,142,552,161,501,172,452,186"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryPolynomialModel.html#aa1e3f16a9df6726ca9065af9e33cc64c" title="Generate the num_of_key&#45;th the key when the vartype is changed." alt="" coords="825,214,1051,254"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="504,207,812,224,811,230,504,212"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryPolynomialModel.html#a2abb34f442d51120b1996dc42fe12344" title="Caluculate the base to the power of exponent (std::pow(base, exponent) is too slow)." alt="" coords="1099,265,1324,305"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="503,221,552,229,689,249,826,263,1085,278,1084,284,825,269,688,254,552,234,502,226"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryPolynomialModel.html#a7427fb3d2bc707a31b7de468e2438ca9" title="Set key and value." alt="" coords="552,49,777,89"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="421,181,480,143,551,105,584,91,587,96,553,110,482,148,424,185"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="1391,166,1384,156,1387,146,1402,140,1426,137,1456,141,1467,150,1464,154,1454,146,1426,143,1403,145,1391,149,1389,155,1395,162"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="1267,136,1359,158,1358,163,1266,141"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="1050,223,1182,210,1324,193,1358,187,1359,192,1324,198,1182,215,1051,228"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="1279,262,1323,244,1362,220,1396,196,1400,200,1365,225,1325,248,1281,267"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="734,46,851,21,924,10,1003,4,1085,4,1168,12,1249,30,1325,61,1353,80,1378,103,1413,151,1409,154,1374,107,1350,84,1323,66,1247,35,1167,17,1085,9,1003,9,925,15,852,26,735,51"/>
+<area shape="rect" id="Node000008" href="$classcimod_1_1BinaryPolynomialModel.html#ae624c6ec0e3f021c25965a38d29c8124" title="Remove the specified interaction from the BinaryPolynomialModel." alt="" coords="825,49,1051,89"/>
+<area shape="poly" id="edge12_Node000007_Node000008" title=" " alt="" coords="778,66,812,66,812,71,778,71"/>
+<area shape="poly" id="edge13_Node000008_Node000003" title=" " alt="" coords="1051,59,1114,60,1184,66,1256,78,1325,98,1369,123,1404,152,1401,156,1366,127,1323,103,1255,83,1184,71,1114,65,1051,64"/>
+<area shape="poly" id="edge14_Node000008_Node000004" title=" " alt="" coords="1035,86,1137,108,1136,113,1033,91"/>
 </map>

@@ -1,0 +1,24 @@
+<map id="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::remove_interactions_from" name="cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::remove_interactions_from">
+<area shape="rect" id="Node000001" title="Remove all specified interactions from the binary quadratic model." alt="" coords="5,38,252,93"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="1088,157,1196,182"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,37,414,13,512,6,616,3,723,7,832,19,939,42,1041,78,1066,91,1088,108,1124,143,1120,147,1085,112,1063,95,1039,82,938,47,831,24,723,12,615,8,512,11,415,19,253,42"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#a917714dd2e903c71c43544800f8bd2db" title="Remove interaction of variables u, v from a binary quadratic model." alt="" coords="300,73,515,113"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="253,75,286,79,286,84,252,80"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="1108,158,1101,148,1104,138,1119,132,1142,130,1171,134,1182,143,1179,147,1169,139,1142,135,1120,137,1108,142,1106,148,1112,155"/>
+<area shape="poly" id="edge14_Node000003_Node000002" title=" " alt="" coords="515,80,625,74,758,74,900,85,972,96,1041,112,1079,127,1113,147,1110,151,1077,132,1039,117,971,101,900,90,758,79,625,79,515,85"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryQuadraticModel.html#a72a5f90f2952fefff3e21bec03360e4b" title="delete label if label_i does not exist, this process is skipped." alt="" coords="563,124,777,164"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="512,111,553,119,552,124,511,116"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryQuadraticModel.html#a570b3cb786b5987a7c89309f69f0f8d6" title="get reference of _quadmat(i,j)" alt="" coords="563,271,777,311"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="437,111,633,260,630,265,433,115"/>
+<area shape="poly" id="edge9_Node000004_Node000002" title=" " alt="" coords="778,130,904,125,973,127,1040,135,1097,149,1096,155,1040,140,972,133,904,130,778,135"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel.html#acd5ed3741d9c9c1244ee4bd0a979e36c" title="delete row and column that corresponds to existing label from _quadmat for dense matrix" alt="" coords="825,149,1040,189"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="778,152,812,155,812,160,777,157"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryQuadraticModel.html#a2c057f7261dfc4fdde0c34ee073f0c9f" title="set _label_to_idx from _idx_to_label" alt="" coords="825,213,1040,253"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="724,162,826,199,851,207,849,212,824,204,722,167"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="1040,167,1074,167,1074,172,1040,172"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="1001,211,1039,199,1087,184,1089,189,1041,204,1002,216"/>
+<area shape="poly" id="edge13_Node000007_Node000002" title=" " alt="" coords="778,299,839,300,906,296,974,284,1039,263,1064,248,1087,230,1122,191,1126,195,1090,234,1067,253,1041,268,975,290,907,301,839,306,778,305"/>
+<area shape="rect" id="Node000008" href="$classcimod_1_1BinaryQuadraticModel.html#afded05f636b81f47d10dc1a83c907d48" title="access elements for dense matrix" alt="" coords="825,328,1040,368"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="763,308,828,322,827,328,762,313"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="1006,326,1038,307,1067,281,1092,250,1126,193,1131,196,1096,253,1071,284,1042,311,1008,330"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cimod.model.legacy.binary_quadratic_model.BinaryQuadraticModel" name="cimod.model.legacy.binary_quadratic_model.BinaryQuadraticModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,292,62"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="340,29,448,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,39,326,39,326,45,292,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="354,31,346,21,350,11,367,5,394,3,429,7,439,11,442,17,438,20,435,15,427,12,394,8,368,10,354,15,351,20,358,27"/>
+</map>

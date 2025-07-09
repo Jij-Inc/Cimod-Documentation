@@ -1,0 +1,21 @@
+<map id="cimod::BinaryPolynomialModel::GetPolynomial" name="cimod::BinaryPolynomialModel::GetPolynomial">
+<area shape="rect" id="Node000001" title="Get the Polynomial object." alt="" coords="825,101,1051,141"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryPolynomialModel.html#a58d0316f6ca258613ab9f7b23b2e389d" title="Return the offset." alt="" coords="552,5,777,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="877,99,776,60,739,48,741,43,778,55,879,94"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryPolynomialModel.html#aeb45c9ae8190f8415af102a03ef8c6dc" title="Get the specific value of the interaction according to the key representing the indices of the polyno..." alt="" coords="552,69,777,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="811,109,777,105,778,100,812,104"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryPolynomialModel.html#a4b8b0a3b05f09eb9202458dff614af9e" title="Generate the polynomial interactions corresponding to the vartype being SPIN from the BinaryPolynomia..." alt="" coords="552,133,777,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="812,139,778,143,777,138,811,133"/>
+<area shape="rect" id="Node000008" href="$classcimod_1_1BinaryPolynomialModel.html#abf2751f5292f367f537b2037716c7be5" title="Generate the polynomial interactions corresponding to the vartype being BINARY from the BinaryPolynom..." alt="" coords="552,197,777,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="879,149,778,188,741,200,739,195,776,183,877,144"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryPolynomialModel.html#aa3c41f812d024b2d70182611e28a5e6b" title="Generate BinaryPolynomialModel with the vartype being SPIN." alt="" coords="279,133,504,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="538,156,504,156,504,151,538,151"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryPolynomialModel.html#a03cc8349130783e6a7270e0cf29946a6" title="Change the vartype of the BinaryPolynomialModel." alt="" coords="5,133,231,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="265,156,231,156,231,151,265,151"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryPolynomialModel.html#a9a00b6234ca3cb3c9746001e90342137" title="Create a BinaryPolynomialModel with the specified vartype." alt="" coords="5,197,231,237"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="293,179,205,200,203,195,291,174"/>
+<area shape="rect" id="Node000009" href="$classcimod_1_1BinaryPolynomialModel.html#a8d319a0a89e250e3e450bd7b054f376f" title="Generate BinaryPolynomialModel with the vartype being BINARY." alt="" coords="279,197,504,237"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="538,220,504,220,504,215,538,215"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="291,197,203,176,205,171,293,192"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="265,220,231,220,231,215,265,215"/>
+</map>

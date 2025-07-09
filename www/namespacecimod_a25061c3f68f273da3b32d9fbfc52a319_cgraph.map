@@ -1,0 +1,6 @@
+<map id="cimod::check_vartype" name="cimod::check_vartype">
+<area shape="rect" id="Node000001" title="Check that the variable has appropriate value." alt="" coords="5,29,171,55"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="219,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,39,205,39,205,45,171,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="242,31,236,21,239,11,252,5,273,3,298,6,309,15,305,19,296,11,273,8,253,10,243,15,241,20,246,28"/>
+</map>

@@ -1,26 +1,29 @@
 var namespacecimod =
 [
     [ "_version", "namespacecimod_1_1__version.html", [
-      [ "__version__", "namespacecimod_1_1__version.html#ab276c3bd7b91b6fcfc268322bf27ea3c", null ],
-      [ "__version_tuple__", "namespacecimod_1_1__version.html#a31f90ec9a47cecf4c0fed1b492af95e7", null ],
+      [ "__all__", "namespacecimod_1_1__version.html#ae9a3d4aa1d37bfc3c011bb261fc77942", null ],
+      [ "__version__", "namespacecimod_1_1__version.html#a70d0aa998bc3c6db5ea0f602073e47da", null ],
+      [ "__version_tuple__", "namespacecimod_1_1__version.html#a9044b498688aa48a58529606489391e6", null ],
       [ "TYPE_CHECKING", "namespacecimod_1_1__version.html#ada051d352825aad78da289b2c3b25ed3", null ],
-      [ "VERSION_TUPLE", "namespacecimod_1_1__version.html#a3d3582015bbf491a440c862019e22d3f", null ]
+      [ "version", "namespacecimod_1_1__version.html#ac2d080cd0a912f8af903a7485b8d64b1", null ],
+      [ "VERSION_TUPLE", "namespacecimod_1_1__version.html#a3d3582015bbf491a440c862019e22d3f", null ],
+      [ "version_tuple", "namespacecimod_1_1__version.html#add4494c155b6f67dd2c098b5de5a4f78", null ]
     ] ],
     [ "model", "namespacecimod_1_1model.html", "namespacecimod_1_1model" ],
     [ "utils", "namespacecimod_1_1utils.html", "namespacecimod_1_1utils" ],
     [ "vartype", "namespacecimod_1_1vartype.html", [
-      [ "to_cxxcimod", "namespacecimod_1_1vartype.html#a61f11833b9cda0bec396c28f88395562", null ],
+      [ "to_cxxcimod", "namespacecimod_1_1vartype.html#ac1d2ad2977d95e71100dcca5009b257a", null ],
       [ "BINARY", "namespacecimod_1_1vartype.html#a4939ae92df05aba74aa0001349c19bd0", null ],
       [ "SPIN", "namespacecimod_1_1vartype.html#a5ba44d86429fd1cd61522517981600f5", null ],
       [ "Vartype", "namespacecimod_1_1vartype.html#aeed3863667e84e91223c04d92156b796", null ]
     ] ],
     [ "BinaryPolynomialModel", "classcimod_1_1BinaryPolynomialModel.html", "classcimod_1_1BinaryPolynomialModel" ],
-    [ "Dense", "structcimod_1_1Dense.html", null ],
-    [ "Sparse", "structcimod_1_1Sparse.html", null ],
     [ "BinaryQuadraticModel", "classcimod_1_1BinaryQuadraticModel.html", "classcimod_1_1BinaryQuadraticModel" ],
-    [ "Dict", "structcimod_1_1Dict.html", null ],
     [ "BinaryQuadraticModel< IndexType, FloatType, Dict >", "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html", "classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4" ],
+    [ "Dense", "structcimod_1_1Dense.html", null ],
+    [ "Dict", "structcimod_1_1Dict.html", null ],
     [ "pair_hash", "structcimod_1_1pair__hash.html", "structcimod_1_1pair__hash" ],
+    [ "Sparse", "structcimod_1_1Sparse.html", null ],
     [ "vector_hash", "structcimod_1_1vector__hash.html", "structcimod_1_1vector__hash" ],
     [ "Adjacency", "namespacecimod.html#a06883b1fbd4da42b90e0a7a751c39abe", null ],
     [ "Linear", "namespacecimod.html#a8a8de407e52855d095598f6e85e539b2", null ],

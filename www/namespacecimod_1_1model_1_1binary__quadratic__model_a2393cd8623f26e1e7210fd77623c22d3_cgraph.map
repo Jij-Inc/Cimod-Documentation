@@ -1,0 +1,9 @@
+<map id="cimod.model.binary_quadratic_model.make_BinaryQuadraticModel" name="cimod.model.binary_quadratic_model.make_BinaryQuadraticModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,15,184,69"/>
+<area shape="rect" id="Node000002" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="443,29,551,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,33,232,31,313,29,395,31,429,33,429,39,395,37,313,35,232,37,184,39"/>
+<area shape="rect" id="Node000003" href="$namespacecimod_1_1model_1_1binary__quadratic__model.html#ad68e8303ea20a66448a55b3a033af8e5" title=" " alt="" coords="232,47,395,101"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="185,52,219,58,218,63,184,58"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="467,31,460,21,464,11,476,5,497,3,522,6,532,15,529,19,519,11,497,8,478,10,468,15,465,20,471,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="394,57,429,51,430,56,395,62"/>
+</map>

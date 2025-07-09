@@ -1,4 +1,8 @@
 <map id="cimod::BinaryPolynomialModel::GetOffset" name="cimod::BinaryPolynomialModel::GetOffset">
-<area shape="rect" id="node1" title="Return the offset." alt="" coords="5,5,231,47"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryPolynomialModel.html#adc8eb3eb781f5c5b2650b9b1ffd38ea1" title="Get the Polynomial object." alt="" coords="279,5,504,47"/>
+<area shape="rect" id="Node000001" title="Return the offset." alt="" coords="5,22,231,62"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryPolynomialModel.html#a5c3691822884d1bccbad4173f7f7177b" title="Get the Polynomial object." alt="" coords="279,22,504,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,39,265,39,265,45,231,45"/>
+<area shape="rect" id="Node000003" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="552,29,660,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,39,538,39,538,45,504,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="571,31,564,21,567,11,582,5,606,3,636,6,647,15,644,20,634,11,606,8,583,10,571,15,569,20,575,28"/>
 </map>

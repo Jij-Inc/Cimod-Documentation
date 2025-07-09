@@ -1,7 +1,13 @@
 <map id="json.hpp" name="json.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="112,5,189,32"/>
-<area shape="rect" id="node2" href="$binary__quadratic__model_8hpp.html" title=" " alt="" coords="118,80,325,107"/>
-<area shape="rect" id="node3" href="$binary__quadratic__model__dict_8hpp.html" title=" " alt="" coords="5,155,184,196"/>
-<area shape="rect" id="node4" href="$main_8hpp.html" title=" " alt="" coords="116,244,199,271"/>
-<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="116,319,199,345"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,5,189,31"/>
+<area shape="rect" id="Node000002" href="$binary__quadratic__model_8hpp.html" title=" " alt="" coords="118,79,325,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,39,212,77,208,80,170,43"/>
+<area shape="rect" id="Node000003" href="$binary__quadratic__model__dict_8hpp.html" title=" " alt="" coords="5,152,184,192"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="132,42,119,60,108,80,99,118,97,152,91,152,93,117,103,78,114,57,128,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,114,127,154,124,150,190,109"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html" title=" " alt="" coords="116,240,199,265"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="220,118,212,154,198,193,184,220,169,241,164,238,179,217,194,191,207,153,215,117"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,201,150,238,146,241,116,205"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title=" " alt="" coords="116,313,199,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="160,279,160,313,155,313,155,279"/>
 </map>

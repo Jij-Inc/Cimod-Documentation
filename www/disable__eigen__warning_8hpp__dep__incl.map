@@ -1,7 +1,14 @@
 <map id="disable_eigen_warning.hpp" name="disable_eigen_warning.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="77,5,275,32"/>
-<area shape="rect" id="node2" href="$binary__quadratic__model_8hpp.html" title=" " alt="" coords="73,80,279,107"/>
-<area shape="rect" id="node3" href="$binary__quadratic__model__dict_8hpp.html" title=" " alt="" coords="5,155,184,196"/>
-<area shape="rect" id="node4" href="$main_8hpp.html" title=" " alt="" coords="180,244,263,271"/>
-<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="180,319,263,345"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,5,275,31"/>
+<area shape="rect" id="Node000002" href="$binary__quadratic__model_8hpp.html" title=" " alt="" coords="73,79,279,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,44,179,79,173,79,173,44"/>
+<area shape="rect" id="Node000003" href="$binary__quadratic__model__dict_8hpp.html" title=" " alt="" coords="5,152,184,192"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="117,38,86,55,62,80,57,97,61,116,80,150,76,153,56,118,52,97,58,77,83,51,115,33"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html" title=" " alt="" coords="180,240,263,265"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="237,33,269,51,294,77,303,100,304,124,298,148,288,171,261,212,235,242,231,238,257,209,284,168,293,146,299,123,298,101,290,80,266,55,235,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="156,116,116,154,112,150,152,112"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="187,116,199,151,221,239,216,240,193,153,182,118"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,197,204,238,201,242,136,202"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title=" " alt="" coords="180,313,263,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,279,224,313,219,313,219,279"/>
 </map>

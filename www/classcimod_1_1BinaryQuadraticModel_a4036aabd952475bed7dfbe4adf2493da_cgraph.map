@@ -1,6 +1,16 @@
 <map id="cimod::BinaryQuadraticModel::_initialize_quadmat" name="cimod::BinaryQuadraticModel::_initialize_quadmat">
-<area shape="rect" id="node1" title="initialize matrix with linear and quadratic dicts (for dense matrix)" alt="" coords="5,64,220,105"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#a1d3615e29779af572a746de9f40faacc" title="get reference of _quadmat(i,j)" alt="" coords="268,5,483,47"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel.html#ac926cb7561cdbe3bcf1d09b0bd961b43" title="access elements for dense matrix" alt="" coords="531,35,745,76"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryQuadraticModel.html#a2c057f7261dfc4fdde0c34ee073f0c9f" title="set _label_to_idx from _idx_to_label" alt="" coords="268,123,483,164"/>
+<area shape="rect" id="Node000001" title="initialize matrix with linear and quadratic dicts (for dense matrix)" alt="" coords="5,85,220,125"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#a570b3cb786b5987a7c89309f69f0f8d6" title="get reference of _quadmat(i,j)" alt="" coords="268,56,483,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,91,254,87,255,92,220,96"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#afded05f636b81f47d10dc1a83c907d48" title="access elements for dense matrix" alt="" coords="531,5,745,45"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="153,83,206,60,267,41,331,30,396,23,517,19,517,24,396,29,332,36,269,47,208,65,155,88"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="793,95,901,121"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="220,105,268,105,779,106,779,111,268,111,220,110"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel.html#a2c057f7261dfc4fdde0c34ee073f0c9f" title="set _label_to_idx from _idx_to_label" alt="" coords="531,171,745,211"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="171,123,269,149,396,169,517,181,517,187,396,175,267,155,170,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,53,520,45,521,51,480,59"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="483,81,780,101,779,106,483,86"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="697,43,746,62,806,87,804,92,744,66,695,48"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="813,97,806,87,810,77,824,71,847,69,876,72,888,81,884,86,874,77,847,74,825,76,813,81,811,86,817,94"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="695,168,744,150,804,124,806,129,746,154,697,173"/>
 </map>

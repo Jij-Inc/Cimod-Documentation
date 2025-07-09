@@ -1,8 +1,21 @@
 <map id="cimod::BinaryQuadraticModel::remove_interaction" name="cimod::BinaryQuadraticModel::remove_interaction">
-<area shape="rect" id="node1" title="Remove interaction of variables u, v from a binary quadratic model." alt="" coords="5,104,220,145"/>
-<area shape="rect" id="node2" href="$classcimod_1_1BinaryQuadraticModel.html#a72a5f90f2952fefff3e21bec03360e4b" title="delete label if label_i does not exist, this process is skipped." alt="" coords="268,71,483,112"/>
-<area shape="rect" id="node5" href="$classcimod_1_1BinaryQuadraticModel.html#a1d3615e29779af572a746de9f40faacc" title="get reference of _quadmat(i,j)" alt="" coords="268,136,483,177"/>
-<area shape="rect" id="node3" href="$classcimod_1_1BinaryQuadraticModel.html#acd5ed3741d9c9c1244ee4bd0a979e36c" title="delete row and column that corresponds to existing label from _quadmat for dense matrix" alt="" coords="531,5,745,47"/>
-<area shape="rect" id="node4" href="$classcimod_1_1BinaryQuadraticModel.html#a2c057f7261dfc4fdde0c34ee073f0c9f" title="set _label_to_idx from _idx_to_label" alt="" coords="531,71,745,112"/>
-<area shape="rect" id="node6" href="$classcimod_1_1BinaryQuadraticModel.html#ac926cb7561cdbe3bcf1d09b0bd961b43" title="access elements for dense matrix" alt="" coords="531,136,745,177"/>
+<area shape="rect" id="Node000001" title="Remove interaction of variables u, v from a binary quadratic model." alt="" coords="5,177,220,217"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryQuadraticModel.html#a72a5f90f2952fefff3e21bec03360e4b" title="delete label if label_i does not exist, this process is skipped." alt="" coords="268,92,483,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,175,299,134,301,139,176,180"/>
+<area shape="rect" id="Node000004" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="793,157,901,182"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="220,191,779,169,779,175,220,196"/>
+<area shape="rect" id="Node000006" href="$classcimod_1_1BinaryQuadraticModel.html#a570b3cb786b5987a7c89309f69f0f8d6" title="get reference of _quadmat(i,j)" alt="" coords="268,235,483,275"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="206,215,270,229,269,234,204,220"/>
+<area shape="rect" id="Node000003" href="$classcimod_1_1BinaryQuadraticModel.html#acd5ed3741d9c9c1244ee4bd0a979e36c" title="delete row and column that corresponds to existing label from _quadmat for dense matrix" alt="" coords="531,5,745,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,89,562,47,564,52,438,94"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="483,93,543,88,610,87,679,92,746,105,787,123,822,146,819,150,785,128,745,111,678,97,610,92,543,93,483,98"/>
+<area shape="rect" id="Node000005" href="$classcimod_1_1BinaryQuadraticModel.html#a2c057f7261dfc4fdde0c34ee073f0c9f" title="set _label_to_idx from _idx_to_label" alt="" coords="531,120,745,160"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="483,121,517,124,517,130,483,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,43,747,62,795,102,830,144,826,147,791,106,744,66,708,48"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="813,158,806,148,810,138,824,132,847,130,876,134,888,143,884,147,874,139,847,135,825,137,813,142,811,148,817,155"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="746,152,780,157,779,163,745,158"/>
+<area shape="poly" id="edge11_Node000006_Node000004" title=" " alt="" coords="483,250,609,239,678,229,745,213,779,201,811,186,813,191,781,206,746,219,679,234,610,245,483,255"/>
+<area shape="rect" id="Node000007" href="$classcimod_1_1BinaryQuadraticModel.html#afded05f636b81f47d10dc1a83c907d48" title="access elements for dense matrix" alt="" coords="531,285,745,325"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="480,272,521,280,520,285,479,277"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="706,283,744,264,789,228,825,191,829,195,793,232,747,269,709,288"/>
 </map>

@@ -1,0 +1,11 @@
+<map id="cimod::BinaryPolynomialModel::GetVariablesToIntegers" name="cimod::BinaryPolynomialModel::GetVariablesToIntegers">
+<area shape="rect" id="Node000001" title="Get variables_to_integers object." alt="" coords="5,22,231,62"/>
+<area shape="rect" id="Node000002" href="$classcimod_1_1BinaryPolynomialModel.html#a007eabe4beb3d70cb19c6d3228c6d627" title="Generate variables_to_integers." alt="" coords="279,22,504,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,39,265,39,265,45,231,45"/>
+<area shape="rect" id="Node000003" href="$main_8hpp.html#a16e24fcca3cd8ee213b6c113c692d2a2" title=" " alt="" coords="825,29,933,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,36,552,35,777,35,812,36,811,42,777,41,552,41,504,42"/>
+<area shape="rect" id="Node000004" href="$classcimod_1_1BinaryPolynomialModel.html#a5697c5424952f378f3ff169b9d9cf742" title="Generate sorted variables." alt="" coords="552,50,777,90"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="505,51,539,54,538,60,504,56"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="844,31,837,21,841,11,855,5,879,3,909,6,921,15,918,20,907,11,879,8,857,10,845,15,842,20,849,28"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="777,53,811,48,812,53,778,58"/>
+</map>
