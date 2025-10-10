@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['relabel_5fflag_5ffor_5fvariables_5fto_5fintegers_5f_0',['relabel_flag_for_variables_to_integers_',['../classcimod_1_1BinaryPolynomialModel.html#a1fccfd1a48e0372df6118e34b7b4ced9',1,'cimod::BinaryPolynomialModel']]]
+  ['q_0',['Q',['../namespacecimod_1_1model_1_1legacy_1_1binary__quadratic__model.html#ae9bf3a05bfddfd3624e4985d1d2c8430',1,'cimod::model::legacy::binary_quadratic_model']]],
+  ['quadratic_1',['quadratic',['../namespacecimod_1_1model_1_1legacy_1_1binary__quadratic__model.html#ab086bd40be4d7799f691b8c5dbf694ea',1,'cimod::model::legacy::binary_quadratic_model']]]
 ];

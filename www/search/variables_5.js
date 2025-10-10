@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['linear_0',['linear',['../namespacecimod_1_1model_1_1legacy_1_1binary__quadratic__model.html#ad730b88fb26c6c8b72b71a924c7a7faa',1,'cimod::model::legacy::binary_quadratic_model']]]
+  ['index_5ftype_0',['index_type',['../namespacecimod_1_1model_1_1binary__polynomial__model.html#aae72d9db9c686d6c009a64e6a89d40ed',1,'cimod::model::binary_polynomial_model']]]
 ];

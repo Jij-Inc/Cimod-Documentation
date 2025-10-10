@@ -2,8 +2,11 @@ var namespacecimod =
 [
     [ "_version", "namespacecimod_1_1__version.html", [
       [ "__all__", "namespacecimod_1_1__version.html#ae9a3d4aa1d37bfc3c011bb261fc77942", null ],
+      [ "__commit_id__", "namespacecimod_1_1__version.html#ac1515321fd7e85b2c0c9c7f0297c564a", null ],
       [ "__version__", "namespacecimod_1_1__version.html#a70d0aa998bc3c6db5ea0f602073e47da", null ],
       [ "__version_tuple__", "namespacecimod_1_1__version.html#a9044b498688aa48a58529606489391e6", null ],
+      [ "COMMIT_ID", "namespacecimod_1_1__version.html#ad1731daaaa7637ee29166e08ecbc8e59", null ],
+      [ "commit_id", "namespacecimod_1_1__version.html#af7d69acf7533dab5045e71e2f6d7ce44", null ],
       [ "TYPE_CHECKING", "namespacecimod_1_1__version.html#ada051d352825aad78da289b2c3b25ed3", null ],
       [ "version", "namespacecimod_1_1__version.html#ac2d080cd0a912f8af903a7485b8d64b1", null ],
       [ "VERSION_TUPLE", "namespacecimod_1_1__version.html#a3d3582015bbf491a440c862019e22d3f", null ],

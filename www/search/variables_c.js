@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['type_5fchecking_0',['TYPE_CHECKING',['../namespacecimod_1_1__version.html#ada051d352825aad78da289b2c3b25ed3',1,'cimod::_version']]]
+  ['sorted_5fvariables_5f_0',['sorted_variables_',['../classcimod_1_1BinaryPolynomialModel.html#a83904c3fbbf453eb595910d2f157698b',1,'cimod::BinaryPolynomialModel']]],
+  ['spin_1',['SPIN',['../namespacecimod_1_1vartype.html#a5ba44d86429fd1cd61522517981600f5',1,'cimod::vartype']]]
 ];
