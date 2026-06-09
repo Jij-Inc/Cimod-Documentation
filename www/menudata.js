@@ -70,7 +70,6 @@ var menudata={children:[
 {text:"o",url:"namespacemembers_vars.html#index_o"},
 {text:"q",url:"namespacemembers_vars.html#index_q"},
 {text:"s",url:"namespacemembers_vars.html#index_s"},
-{text:"t",url:"namespacemembers_vars.html#index_t"},
 {text:"v",url:"namespacemembers_vars.html#index_v"}]},
 {text:"Typedefs",url:"namespacemembers_type.html"},
 {text:"Enumerations",url:"namespacemembers_enum.html"}]}]},

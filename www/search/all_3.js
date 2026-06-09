@@ -17,8 +17,8 @@ var searchData=
   ['cimod_3a_3autils_3a_3aresponse_14',['response',['../namespacecimod_1_1utils_1_1response.html',1,'cimod::utils']]],
   ['cimod_3a_3avartype_15',['vartype',['../namespacecimod_1_1vartype.html',1,'cimod']]],
   ['clear_16',['Clear',['../classcimod_1_1BinaryPolynomialModel.html#a22cd9364f9090c34e62973309e474197',1,'cimod::BinaryPolynomialModel']]],
-  ['commit_5fid_17',['commit_id',['../namespacecimod_1_1__version.html#af7d69acf7533dab5045e71e2f6d7ce44',1,'cimod._version.commit_id'],['../namespacecimod_1_1__version.html#ad1731daaaa7637ee29166e08ecbc8e59',1,'cimod._version.COMMIT_ID']]],
-  ['contains_18',['contains',['../classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#ad50c66febbb4c9388bfa9f54dccc2419',1,'cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::contains()'],['../classcimod_1_1BinaryQuadraticModel.html#a12dc2c8d935e96a2acd346ef602a7d81',1,'cimod::BinaryQuadraticModel::contains()']]],
+  ['commit_5fid_17',['commit_id',['../namespacecimod_1_1__version.html#a4707bb60d0872a8d542291a4e90b68fe',1,'cimod::_version']]],
+  ['contains_18',['contains',['../classcimod_1_1BinaryQuadraticModel.html#a12dc2c8d935e96a2acd346ef602a7d81',1,'cimod::BinaryQuadraticModel::contains()'],['../classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#ad50c66febbb4c9388bfa9f54dccc2419',1,'cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;::contains(const IndexType &amp;v) const']]],
   ['contract_5fvariables_19',['contract_variables',['../classcimod_1_1BinaryQuadraticModel_3_01IndexType_00_01FloatType_00_01Dict_01_4.html#aeb1444e0f14edb2bbd401954020e5196',1,'cimod::BinaryQuadraticModel&lt; IndexType, FloatType, Dict &gt;']]],
   ['copy_20',['copy',['../classcimod_1_1model_1_1binary__polynomial__model_1_1Polynomial.html#a6316a6bab0245114273862afc58b041c',1,'cimod::model::binary_polynomial_model::Polynomial']]]
 ];

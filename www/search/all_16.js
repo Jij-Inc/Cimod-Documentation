@@ -10,5 +10,5 @@ var searchData=
   ['vector_7',['Vector',['../classcimod_1_1BinaryQuadraticModel.html#a97692189aef7068a47be851e4609919c',1,'cimod::BinaryQuadraticModel']]],
   ['vector_5fhash_8',['vector_hash',['../structcimod_1_1vector__hash.html',1,'cimod']]],
   ['version_9',['version',['../namespacecimod_1_1__version.html#ac2d080cd0a912f8af903a7485b8d64b1',1,'cimod::_version']]],
-  ['version_5ftuple_10',['version_tuple',['../namespacecimod_1_1__version.html#a3d3582015bbf491a440c862019e22d3f',1,'cimod._version.VERSION_TUPLE'],['../namespacecimod_1_1__version.html#add4494c155b6f67dd2c098b5de5a4f78',1,'cimod._version.version_tuple']]]
+  ['version_5ftuple_10',['version_tuple',['../namespacecimod_1_1__version.html#a30cf10f271af33307d5908c16e074062',1,'cimod::_version']]]
 ];
